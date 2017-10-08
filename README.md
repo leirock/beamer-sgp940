@@ -2,8 +2,8 @@
 
 A LaTeX beamer template based on Singapore theme
 
-* `sgp940.tex`: This is a sample beamer latex using the new style (in line 2, it cites the style file `sgp940.sty`).
-* `sgp940.sty`: This is the style file cited by `sgp940.tex`. In this file, you can add additional packages or edit the font size, font family, layout (such as page margins).
+* `sgp940.tex`: This is a latex source file using the the style `sgp940.sty` (in line 2).
+* `sgp940.sty`: This is the style file cited by `sgp940.tex`.
 
 The above two files should be put in the same folder.
 
